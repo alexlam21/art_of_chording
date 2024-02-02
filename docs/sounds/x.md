@@ -84,10 +84,10 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Find steno outlines that will write these English sentences, including punctuation.
 
-1. Let me give you an example you can see.
+1. Let me give you an example you can do.
 2. I want more practice than you wrote.
 3. You should practice with the exercise part of the text.
-4. Open access is important to consider before throwing an event.
+4. Open access is important to think about before throwing an event.
 5. Do not go in excess of limits set for good reason.
 6. I will examine the paper tomorrow.
 7. Did you get the x-ray back?
